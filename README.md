@@ -1,4 +1,4 @@
-**📈 Time Series Analysis: Stress and Affect Detection**
+
 # Time Series Analysis: Stress and Affect Detection
 
 ## Project Overview
